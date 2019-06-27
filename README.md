@@ -1,5 +1,5 @@
-Kotlin
-MVP
-Retrofit
-RXJava
-Picasso
+Kotlin,
+MVP,
+Retrofit,
+RXJava,
+Picasso,
