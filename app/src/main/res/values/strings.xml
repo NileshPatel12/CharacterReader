@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CharacterReader</string>
+    <string name="str_try_again">Try Again</string>
+    <string name="str_search">Search Here…</string>
+    <string name="str_no_internet">Connect With Internet</string>
+    <string name="str_error_msg">Server is temporary down, Please try again later!</string>
+    <string name="photos">photos</string>
+    <string name="str_warning_msg">Details Will be available on List Click</string>
+    <string name="warning">warning</string>
+</resources>

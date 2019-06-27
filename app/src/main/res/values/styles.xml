@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="searchEditTextTheme">
+        <item name="colorControlNormal">@color/LightColor</item>
+        <item name="colorControlActivated">@color/LightColor</item>
+        <item name="colorControlHighlight">@color/LightColor</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+
+    <style name="mediumTextStyle" parent="AppTheme">
+        <item name="android:textSize">@dimen/midium_text</item>
+        <item name="editTextColor">@color/Black</item>
+    </style>
+
+    <style name="LargeTextStyle" parent="AppTheme">
+        <item name="android:textSize">@dimen/Extra_large_text</item>
+        <item name="editTextColor">@color/warn_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
